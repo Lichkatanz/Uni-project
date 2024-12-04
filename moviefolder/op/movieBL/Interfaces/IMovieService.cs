@@ -11,3 +11,5 @@ namespace MovieStore.BL.Interfaces
         Movie? GetById(int id);
     }
 }
+
+
